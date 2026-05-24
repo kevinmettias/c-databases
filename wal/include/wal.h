@@ -1,0 +1,9 @@
+#ifndef WAL_H
+#define WAL_H
+
+typedef struct Wal
+{
+    int placeholder;
+} Wal;
+
+#endif
